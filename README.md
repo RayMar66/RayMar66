@@ -1,4 +1,4 @@
-# Hey, soy Rayniel 👋
+# Hola, llamame Ray 👋
 
 **Full-Stack Developer (Backend-focused)** · Santo Domingo, República Dominicana  
 Técnico en Desarrollo de Software @ ITLA · Inglés C1
