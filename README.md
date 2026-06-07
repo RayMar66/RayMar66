@@ -39,7 +39,7 @@ Santo Domingo, RD &nbsp;·&nbsp; Inglés C1 &nbsp;·&nbsp; Disponible para roles
 
 ### Projects
 
-**[Facturify — ASP.NET Core IN PROGRESS](https://github.com/RayMar66)**  
+**[Facturify — ASP.NET Core](https://github.com/RayMar66)**  
 Billing system built with layered architecture (Controller → Service → Repository), SOLID principles, NUnit tests and CI pipeline via GitHub Actions.  
 `C#` · `ASP.NET Core` · `SQL Server` · `NUnit` · `Docker` · `GitHub Actions`
 
@@ -56,12 +56,11 @@ Original desktop version in Java 22 with Swing UI and MySQL via JDBC. Fully docu
 ### Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RayMar66&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayMar66&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=RayMar66&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=RayMar66&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RayMar66&theme=tokyonight"/>
 </p>
 
 ---
